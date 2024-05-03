@@ -1,0 +1,15 @@
+{"intents": [
+    {"tag": "saudacao",
+     "patterns": ["Oi!","Ola!","Oie!","Bom Dia","Boa Tarde","Boa Noite!","Tem alguem ai?","Tudo Bem?","Como Vai?"],
+     "responses": ["Oi!","Ola","Tudo e voce?","Tudo bem!","Como posso ajudar?","Como esta?","Em que posso ser util?","Obrigado por perguntar!","Melhor agora."]
+    },
+    {"tag": "despedida",
+     "patterns": ["Tchau!","Adeus","Ate!","Falou!","Ate a próxima!","Tenha um otimo Dia!","Te vejo em breve!","Tenho que ir.","Entao ta."],
+     "responses": ["Tchau!","Posso te ajudar em algo mais?","Espero ter sido util.","Ate Mais!","Foi um prazer ajudar!","Ate logo","Tenha um excelente dia!","Volte sempre!"]
+    }
+  ]
+}
+
+
+
+    
